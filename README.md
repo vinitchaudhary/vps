@@ -1,1 +1,1 @@
-# vps
+XMRIG LINUX
